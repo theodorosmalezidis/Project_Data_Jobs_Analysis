@@ -125,7 +125,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023.
 - **Excel** and **Python** also have high demand, indicating a strong preference for these skills in data analysis roles.
 - **Tableau** and **Power BI** are highly valued, reflecting the importance of data visualization tools in the industry.
 
-![Top in-demand Skills](images\top_5_skills_demand_remote_data_analyst.png)
+![Top in-demand Skills](./images\top_5_skills_demand_remote_data_analyst.png)
 *Table of the demand for the top 5 skills in remote data analyst job postings.This table visualization was created with Python after importing my SQL query results*
 
 ### 4. The top paying Skills based on salary
@@ -172,7 +172,7 @@ Top Skills: Airflow, Jenkins
 **7. Open Source Tools and Frameworks:**
 Top Skills: Jupyter, Pandas, Numpy, Scikit-learn, Golang, Linux
 
-![Top paying Skills](images\top_20_skills_avg_salary.png)
+![Top paying Skills](./images\top_20_skills_avg_salary.png)
 *The table  shows the top 20 paying skills based on the average salaries.This table visualization was created with Python after importing my SQL query results*
 
 ### 5. The most valuable Skills to learn balancing high demand and high pay
@@ -209,8 +209,9 @@ in 2023 is becoming increasingly complex and integrated with various technologie
 emphasizes the need for data analysts to not only analyze data but also present it in an accessible and impactful way.
 - Additionally, the enduring relevance of traditional database management **(SQL, SQL Server, SPSS, SAS)** and office productivity tools **(Excel, PowerPoint, Word, Sheets)** shows that a well-rounded skill set is crucial for success in this evolving field.
 
-![Most Valuable Skills](images\skills_demand_avg_salary.png)
+![Most Valuable Skills](./images\skills_demand_avg_salary.png)
 *Table of the most optimal skills (high demand and high pay) for remote data analysts sorted by salary.This table visualization was created with Python after importing my SQL query results*
 
 
 # Conclusion
+fgssd
