@@ -217,15 +217,15 @@ emphasizes the need for data analysts to not only analyze data but also present 
 
 Through detailed queries and visualizations, several key insights have emerged:
 
-1.Top-paying Data Analyst Jobs: Remote roles for data analysts offer a wide salary range, with positions at high-profile companies such as Meta and AT&T commanding salaries well into six figures. This highlights the significant earning potential in the field, especially for those with specialized skills.
+1.**Top-paying Data Analyst Jobs:** Remote roles for data analysts offer a wide salary range, with positions at high-profile companies such as Meta and AT&T commanding salaries well into six figures. This highlights the significant earning potential in the field, especially for those with specialized skills.
 
-2.Key Skills for Top-paying Roles: The most lucrative positions often require expertise in a mix of technical and data-oriented skills, such as SQL, Python, and Tableau. These core skills are essential for data analysts seeking to advance in their careers and secure high-paying opportunities.
+2.**Key Skills for Top-paying Roles:** The most lucrative positions often require expertise in a mix of technical and data-oriented skills, such as SQL, Python, and Tableau. These core skills are essential for data analysts seeking to advance in their careers and secure high-paying opportunities.
 
-3.In-demand Skills for Data Analysts: SQL dominates as the most sought-after skill, followed by Excel, Python, and data visualization tools like Tableau and Power BI. This demonstrates the importance of both foundational data processing skills and advanced analytics tools.
+3.**In-demand Skills for Data Analysts:** SQL dominates as the most sought-after skill, followed by Excel, Python, and data visualization tools like Tableau and Power BI. This demonstrates the importance of both foundational data processing skills and advanced analytics tools.
 
-4.Top-paying Skills: Proficiency in emerging technologies, particularly in big data and machine learning tools like PySpark, Databricks, and Watson, correlates with higher salaries. This underscores the value of staying ahead of technological advancements to maximize earning potential.
+4.**Top-paying Skills:** Proficiency in emerging technologies, particularly in big data and machine learning tools like PySpark, Databricks, and Watson, correlates with higher salaries. This underscores the value of staying ahead of technological advancements to maximize earning potential.
 
-5.Most Valuable Skills (Balancing Demand and Pay): The analysis reveals that skills with both high demand and competitive salaries, such as SQL, Python, and Tableau, offer the most promising career opportunities. Mastering these technologies ensures both employability and substantial financial rewards.
+5.**Most Valuable Skills (Balancing Demand and Pay):** The analysis reveals that skills with both high demand and competitive salaries, such as SQL, Python, and Tableau, offer the most promising career opportunities. Mastering these technologies ensures both employability and substantial financial rewards.
 
 ### Final Thoughts
 
