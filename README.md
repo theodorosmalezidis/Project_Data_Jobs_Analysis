@@ -1,5 +1,5 @@
 # Introduction
-This project dives into the dynamic world of data analyst roles, uncovering key insights about the current job market. By answering questions like what are the top-paying data analyst jobs, identifying the most in-demand skills, and exploring where high demand meets high salaries, this analysis provides a comprehensive overview of the opportunities and trends in the field of data analytics.
+This project dives into the dynamic world of data analyst roles, uncovering key insights about the current job market. By answering questions like what are the top-paying data analyst jobs, identifying the most in-demand skills, and exploring where high demand meets high salaries, this analysis provides a comprehensive overview of the opportunities and trends in the field of data analytics (a project idea by [lukebarousse ](https://github.com/lukebarousse) ).
 
 Designed as a guide for both aspiring and current data analysts, this project helps navigate the job market and capitalize on the most lucrative opportunities.
 
