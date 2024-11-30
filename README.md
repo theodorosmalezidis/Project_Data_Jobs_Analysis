@@ -25,7 +25,7 @@ Feel free to check out the queries for this analysis here : [project_queries](/p
 
 Each query focused on exploring unique dimensions of the data analyst job market, offering detailed answers to key questions about industry trends and opportunities.
 
-### 1. The top paying Data Analyst jobs.
+### The top paying Data Analyst jobs.
 In this query i try to identify the the top 10 highest-paying data analyst positions that offer remote work opportunities. I filter out entries where the average annual salary is null, ensuring only valid salary data is considered.
 
 ```sql
