@@ -5,7 +5,7 @@ Designed as a guide for both aspiring and current data analysts, this project he
 
 ### My goal in exploring this dataset was was to uncover:
 
-1. [The top-paying data analyst jobs.](### 1. The top paying Data Analyst jobs.)
+- [1. The top-paying data analyst jobs.](#the-top-paying-data-analyst-jobs.)
 2. The skills required for these top-paying roles.
 3. The most in-demand skills for data analysts.
 4. The top skills based on salary.
